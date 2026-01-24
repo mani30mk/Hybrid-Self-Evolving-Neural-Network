@@ -1,0 +1,21 @@
+/* Component-specific tweaks if needed */
+.upload-box {
+  border: 2px dashed var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.upload-box:hover {
+  border-color: var(--accent-primary);
+  /* Blue tint */
+  background: rgba(59, 130, 246, 0.05);
+}
+
+.upload-box.has-file {
+  border-color: var(--success);
+  background: rgba(16, 185, 129, 0.05);
+  color: var(--success);
+}

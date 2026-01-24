@@ -1,0 +1,12 @@
+numpy
+pandas
+tensorflow
+dataclasses
+typing
+flask
+python-dotenv
+flask-cors
+sentence_transformers
+tf-keras
+opencv-python
+Pillow

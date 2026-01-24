@@ -1,0 +1,9 @@
+{
+  "0": "Image Classification",
+  "1": "Image Generation (Generator Only)",
+  "2": "Image Segmentation",
+  "3": "Natural Language Processing",
+  "4": "Object Detection",
+  "5": "Time Series / Audio",
+  "6": "UNKNOWN"
+}
